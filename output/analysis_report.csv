@@ -1,0 +1,6 @@
+file,line_count,function_count,avg_function_length,max_function_length
+sample_code.py,35,5,3.6,6
+complex_data_processor.py,297,10,21.7,40
+deep_neural_net_simulator.py,263,12,15.25,38
+event_driven_simulation.py,232,9,21.78,108
+advanced_algorithm_collection.py,250,5,29.2,41
